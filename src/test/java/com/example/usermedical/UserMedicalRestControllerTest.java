@@ -29,7 +29,7 @@ import java.nio.charset.Charset;
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = UserMedicalApplication.class)
 @WebAppConfiguration
-public class BookmarkRestControllerTest {
+public class UserMedicalRestControllerTest {
 
     private MediaType contentType = new MediaType(MediaType.APPLICATION_JSON.getType(),
             MediaType.APPLICATION_JSON.getSubtype(),
