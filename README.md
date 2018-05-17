@@ -1,6 +1,6 @@
-# Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
+# Rest API Tutorial
 
-Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
+Build Restful CRUD API 
 
 ## Requirements
 
@@ -32,8 +32,9 @@ http://localhost:8080/api-docs
 3. Mysql 
 4. Spring Boot
 5. Spring mvc
-6. Hibernate
-7. Basic authentication
-8. Git
-9. Mockito
+6. Spring data
+7. Hibernate
+8. Basic authentication
+9. Git
+10. Mockito
 
