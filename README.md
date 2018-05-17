@@ -37,4 +37,6 @@ http://localhost:8080/api-docs
 8. Basic authentication
 9. Git
 10. Mockito
+11. Hsql database
+12. swagger basic configuration
 
