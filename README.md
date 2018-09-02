@@ -23,7 +23,7 @@ java -jar target/user-medical-1.0.0.jar
 
 ## Basic swagger support
 
-http://localhost:8080/api-docs
+http://localhost:8080/swagger-ui.html
 
 ## Technologies
 
