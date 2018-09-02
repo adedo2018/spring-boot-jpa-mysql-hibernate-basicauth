@@ -8,7 +8,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-@EnableSwagger
 public class UserMedicalApplication {
 
 	public static void main(String[] args) {
